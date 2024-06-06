@@ -1,0 +1,4 @@
+SC = "!@#$%^&*()."
+UC = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+LC = "abcdefghijklmnopqrstuvwxyz"
+NC = "0123456789"
